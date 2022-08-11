@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwansikk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=seorit)
-
 <a href="mailto:Seorit98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Seorit98@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gwansikk/" target="_blank"><img src="https://img.shields.io/badge/GwanSik Kim-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwansikk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=seorit)
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
