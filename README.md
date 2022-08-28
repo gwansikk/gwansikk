@@ -21,11 +21,11 @@
 <img src="https://img.shields.io/badge/Nginx-232F3E?style=flat&logo=Nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-<br>
-
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
 <br><br>
+
+<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩 시즌4-최우수-FF4154?style=flat-square&logo=logoColor=white"/></a>
+
+<Br><br>
 
 ![Overview](https://raw.githubusercontent.com/gwansikk/github-stats-transparent/output/generated/overview.svg)
 ![Languages](https://raw.githubusercontent.com/gwansikk/github-stats-transparent/output/generated/languages.svg)
