@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="mailto:Seorit98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Seorit98@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:Seorit@icloud.com" target="_blank"><img src="https://img.shields.io/badge/Seorit@icloud.com-3693F3?style=flat&logo=icloud&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gwansikk/" target="_blank"><img src="https://img.shields.io/badge/GwanSik Kim-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwansikk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <br><br>
 
-<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩 시즌4-최우수-FF4154?style=flat-square&logo=logoColor=white"/></a>
+<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-success"/></a>
 
 <Br><br>
 
