@@ -7,7 +7,6 @@
 ![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=seorit)
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>
