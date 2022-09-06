@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>
 <br>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <br>
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <br><br>
 
-<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-success"/></a>
+<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf"/></a>
 
 <Br><br>
 
