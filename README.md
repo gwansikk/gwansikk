@@ -24,9 +24,4 @@
 
 <a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf"/></a>
 
-<Br><br>
-
-![Overview](https://raw.githubusercontent.com/gwansikk/github-stats-transparent/output/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/gwansikk/github-stats-transparent/output/generated/languages.svg)
-
 </div>
