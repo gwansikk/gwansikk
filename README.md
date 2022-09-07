@@ -24,6 +24,6 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
 <br><br>
 
-<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩%20해커톤%20시즌4-행정안전부장관상%20최우수-9cf"/></a>
+<a href="https://securecoding.software"/><img src="https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf"/></a>
 
 </div>
