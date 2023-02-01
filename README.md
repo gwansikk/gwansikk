@@ -16,6 +16,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=PM2)
 
-[![소개딩](https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf)](https://github.com/SCHackerthon-FakeDeveloper)
-
+[![소개딩](https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf)](https://github.com/Hackerthon-FakeDeveloper)
+  
 </div>
