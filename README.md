@@ -5,6 +5,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwansikk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=seorit)
 
+![C99](https://img.shields.io/badge/C99-A8B9CC?style=flat&logo=C&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)  
 ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white)
