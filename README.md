@@ -11,7 +11,7 @@
 ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma)  
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab)
