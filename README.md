@@ -14,7 +14,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma)  
-<!-- ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab) -->
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![GitHubActions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white)  
