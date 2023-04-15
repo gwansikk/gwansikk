@@ -10,6 +10,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)  
 ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=Tauri&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL)
