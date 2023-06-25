@@ -23,5 +23,9 @@
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=PM2)
 
 [![소개딩](https://img.shields.io/badge/소개딩%20해커톤%20시즌4-최우수-9cf)](https://github.com/Hackerthon-FakeDeveloper)
-  
+
+[![WorkSmooth](https://img.shields.io/badge/WorkSmooth-292929)](https://github.com/worksmooth)
+[![Component Studio](https://img.shields.io/badge/Component%20Studio-8A2BE2)](https://github.com/component-studio)  
+[![Voca Manager](https://img.shields.io/badge/Voca%20Manager-40c3ed)](https://demo.gwansik.dev:10002/)
+
 </div>
