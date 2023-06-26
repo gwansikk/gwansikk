@@ -26,6 +26,6 @@
 
 [![WorkSmooth](https://img.shields.io/badge/WorkSmooth-292929)](https://github.com/worksmooth)
 [![Component Studio](https://img.shields.io/badge/Component%20Studio-8A2BE2)](https://github.com/component-studio)  
-[![Voca Manager](https://img.shields.io/badge/Voca%20Manager-40c3ed)](https://demo.gwansik.dev:10002/)
+[![Voca Manager](https://img.shields.io/badge/Voca%20Manager-40c3ed)](https://vocamanager.com)
 
 </div>
