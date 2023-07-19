@@ -30,6 +30,5 @@
 
 [![WorkSmooth](https://img.shields.io/badge/WorkSmooth-292929)](https://github.com/worksmooth)
 [![Component Studio](https://img.shields.io/badge/Component_Studio-8A2BE2)](https://github.com/component-studio)  
-[![Voca Manager](https://img.shields.io/badge/자동화에_집중한_영단어_프로그램-Voca_Manager-40c3ed)](https://vocamanager.com)
 
 </div>
