@@ -28,7 +28,7 @@
 [![소개딩](https://img.shields.io/badge/최우수-소개딩_해커톤_시즌4-9cf)](https://github.com/Hackerthon-FakeDeveloper)  
 [![SW중심대학 공동해커톤 2023](https://img.shields.io/badge/최우수-SW중심대학_공동해커톤_2023-071D49)](https://github.com/Hackerthon-TAXX)
 
-[![WorkSmooth](https://img.shields.io/badge/WorkSmooth-292929)](https://github.com/worksmooth)
+<!--[![WorkSmooth](https://img.shields.io/badge/WorkSmooth-292929)](https://github.com/worksmooth)-->
 [![Component Studio](https://img.shields.io/badge/Component_Studio-8A2BE2)](https://github.com/component-studio)  
 
 </div>
