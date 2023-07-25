@@ -20,7 +20,7 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white)  
-![NAVER CLOUD PLATFORM](https://img.shields.io/badge/NAVER_CLOUD_PLATFORM-03C75A?style=flat&logo=Naver&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=PM2)
@@ -28,7 +28,6 @@
 [![소개딩](https://img.shields.io/badge/최우수-소개딩_해커톤_시즌4-9cf)](https://github.com/Hackerthon-FakeDeveloper)  
 [![SW중심대학 공동해커톤 2023](https://img.shields.io/badge/최우수-SW중심대학_공동해커톤_2023-071D49)](https://github.com/Hackerthon-TAXX)
 
-<!--[![WorkSmooth](https://img.shields.io/badge/WorkSmooth-292929)](https://github.com/worksmooth)-->
 [![Component Studio](https://img.shields.io/badge/Component_Studio-8A2BE2)](https://github.com/component-studio)  
 
 </div>
