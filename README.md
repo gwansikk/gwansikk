@@ -7,8 +7,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)  
 ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter)
