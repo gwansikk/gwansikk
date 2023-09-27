@@ -24,6 +24,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=PM2)
 
+[![SQLD](https://img.shields.io/badge/SQL_Devloper-ECD53F)](https://www.dataq.or.kr/www/sub/a_04.do)
+
 [![소개딩4](https://img.shields.io/badge/최우수-소개딩_해커톤_시즌4-9cf)](https://github.com/Hackerthon-FakeDeveloper)
 [![소개딩5](https://img.shields.io/badge/우수-소개딩_해커톤_시즌5-fff)](https://www.kisa.or.kr/401/form?postSeq=3152)  
 [![SW중심대학 공동해커톤 2023](https://img.shields.io/badge/최우수-SW중심대학_공동해커톤_2023-071D49)](https://github.com/Hackerthon-TAXX)  
