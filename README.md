@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/018b296e-4cd5-41f2-aa72-2f479353ee2b.svg?style=flat-square)](https://wakatime.com/@018b296e-4cd5-41f2-aa72-2f479353ee2b)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 <!--
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js)
