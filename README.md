@@ -10,4 +10,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 <!-- open-source contribution -->
-- [vuejs/vitepress](https://github.com/vuejs/vitepress/issues/3481)
+- https://github.com/vuejs/vitepress/issues/3481
