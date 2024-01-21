@@ -9,21 +9,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
-
-<!--
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS)  
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
-![Emotion](https://img.shields.io/badge/Emotion-d26ac2?style=flat-square&logo=Emotion&logoColor=white)
-![Framer-motion](https://img.shields.io/badge/Framer--motion-0055FF?style=flat-square&logo=Framer&logoColor=white)  
-![Yarn Berry](https://img.shields.io/badge/Yarn_Berry-2C8EBB?style=flat-square&logo=yarn&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
-![SWC](https://img.shields.io/badge/SWC-000000?style=flat-square&logo=SWC&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white)
--->
+<!-- open-source contribution -->
+- [vuejs/vitepress](https://github.com/vuejs/vitepress/issues/3481)
