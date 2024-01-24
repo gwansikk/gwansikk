@@ -3,7 +3,8 @@
 ### 👋 hey, I'm GwanSik Kim
 
 [![Email](https://img.shields.io/badge/iam@gwansik.dev-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:iam@gwansik.dev)
-[![Linkedin](https://img.shields.io/badge/GwanSik_Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gwansikk/)  
+[![Linkedin](https://img.shields.io/badge/GwanSik_Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gwansikk/)
+[![𝕏](https://img.shields.io/badge/gwansikk-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gwansikk)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwansikk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018b296e-4cd5-41f2-aa72-2f479353ee2b.svg?style=flat-square)](https://wakatime.com/@018b296e-4cd5-41f2-aa72-2f479353ee2b)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -15,6 +16,6 @@
 
 <!-- open-source contribution -->
 
-### 🧩 Open-source Contribution
+### 🧩 Open-source Contributions
 
 - [vuejs/vitepress #3481](https://github.com/vuejs/vitepress/issues/3481)
