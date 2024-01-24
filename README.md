@@ -15,6 +15,6 @@
 
 <!-- open-source contribution -->
 
-### 🍀 Open Source Contribution
+### 🧩 Open Source Contribution
 
 - [vuejs/vitepress #3481](https://github.com/vuejs/vitepress/issues/3481)
