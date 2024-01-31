@@ -18,4 +18,5 @@
 
 ### 🧩 Open-source Contributions
 
-- [vuejs/vitepress #3481](https://github.com/vuejs/vitepress/issues/3481)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress/issues?q=author%3Agwansikk)
+
