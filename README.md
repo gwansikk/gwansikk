@@ -11,6 +11,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![deno](https://img.shields.io/badge/deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
