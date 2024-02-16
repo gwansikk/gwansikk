@@ -22,4 +22,4 @@
 
 <!-- blog -->
 
-### ✍️ Blog
+### ⭐️ Dev Insights
