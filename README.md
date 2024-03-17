@@ -28,6 +28,7 @@
 ### 🧩 Open-source Contributions
 
 - [vuejs/vitepress](https://github.com/vuejs/vitepress/issues?q=author%3Agwansikk)
+  - Request to Add NPM to Social Links [#3481](https://github.com/vuejs/vitepress/issues/3481)
 
 <!-- blog -->
 
