@@ -27,10 +27,10 @@
 
 ### 🧩 Open-source Contributions
 
-- [vuejs/vitepress](https://github.com/vuejs/vitepress/issues?q=author%3Agwansikk)
-  - Request to Add NPM to Social Links [#3481](https://github.com/vuejs/vitepress/issues/3481)
 - [TanStack/query](https://github.com/TanStack/query/issues?q=author%3Agwansikk)
   - fix(reat-query): infer data type correctly when conditional skipToken is passed to useQueries [#7150](https://github.com/TanStack/query/pull/7150)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress/issues?q=author%3Agwansikk)
+  - Request to Add NPM to Social Links [#3481](https://github.com/vuejs/vitepress/issues/3481)
 
 <!-- blog -->
 
