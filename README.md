@@ -17,7 +17,7 @@
 
 <!-- awards -->
 
-### 🎖️ Awards
+### 🏆 Awards
 
 - [제10회 소프트웨어 개발보안 경진대회 - 행정안전부장관상 우수](https://www.kisa.or.kr/401/form?postSeq=3152&page=1)
 - [SW중심대학 공동해커톤 2023 - 정보통신기획평가원장상 최우수](https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board)
