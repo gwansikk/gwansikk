@@ -34,8 +34,11 @@
 
 <!-- blog -->
 
- ### ✒️ Tech Insights
+ ### 📝 Tech Insights
 
+> 현재 블로그 이전 작업 중이어서 접속이 어려워요. 빠르게 작업해 볼게요!
+
+- [TanStack-Query 사용 중 마주친 버그 개선하고 기여하기]()
 - [vitepress 테마 컨트리뷰션 후기]()
-- [Github Action으로 Storybook을 Page로 배포 시 발생되는 Importing 이슈 알아보기]()
+- [Github Actions으로 Storybook을 Github Pages로 배포 시 발생되는 Importing 이슈 알아보기]()
 - [React.FC를 미워하지 않을 용기]()
