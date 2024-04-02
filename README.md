@@ -23,6 +23,11 @@
 - [SW중심대학 공동해커톤 2023 - 정보통신기획평가원장상 최우수](https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board)
 - [제9회 소프트웨어 개발보안 경진대회 - 행정안전부장관상 최우수](https://www.kisa.or.kr/401/form?postSeq=3152)
 
+<!-- Experience -->
+### 💼 Experience
+
+- [Component Studio](https://github.com/ComponentStudio)
+
 <!-- open-source contribution -->
 
 ### 🧩 Open-source Contributions
