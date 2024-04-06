@@ -34,7 +34,6 @@
 
 - [TanStack/query](https://github.com/TanStack/query/issues?q=author%3Agwansikk)
   - fix(*): infer data type correctly when conditional skipToken is passed to useQueries [#7150](https://github.com/TanStack/query/pull/7150)
-  - refactor(solid-query): Ensure correct type inference when using skipToken in createQueries [#7221](https://github.com/TanStack/query/pull/7221)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress/issues?q=author%3Agwansikk)
   - feat(theme): add npm icon [#3483](https://github.com/vuejs/vitepress/issues/3483)
 
