@@ -36,6 +36,8 @@
   - fix(*): infer data type correctly when conditional skipToken is passed to useQueries [#7150](https://github.com/TanStack/query/pull/7150)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress/issues?q=author%3Agwansikk)
   - feat(theme): add npm icon [#3483](https://github.com/vuejs/vitepress/issues/3483)
+- [toss/slash](https://github.com/toss/slash)
+  - docs: fix broken link in KR documentation [#468](https://github.com/toss/slash/pull/468)
 
 <!-- blog -->
 
