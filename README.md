@@ -25,7 +25,7 @@
 
 <!-- Experience -->
 
-### 💼 Experience
+### 🧑🏻‍💻 Experience
 
 - [Component Studio](https://github.com/ComponentStudio)
 
@@ -39,7 +39,7 @@
 
 <!-- blog -->
 
- ### 📝 Insights
+ ### ✨ Insights
 
 > 현재 블로그 이전 작업 중이어서 접속이 어려워요. 빠르게 작업해 볼게요!
 
