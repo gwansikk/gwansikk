@@ -19,9 +19,9 @@
 
 ### 🏆 Awards
 
-- [제10회 소프트웨어 개발보안 경진대회 - 행정안전부장관상 우수](https://www.kisa.or.kr/401/form?postSeq=3152&page=1)
-- [SW중심대학 공동해커톤 2023 - 정보통신기획평가원장상 최우수](https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board)
-- [제9회 소프트웨어 개발보안 경진대회 - 행정안전부장관상 최우수](http://www.ggoverallnews.co.kr/news/articleView.html?idxno=18009)
+- [제10회 소프트웨어 개발보안 경진대회 - 행정안전부장관상 우수🥉](https://www.kisa.or.kr/401/form?postSeq=3152&page=1)
+- [SW중심대학 공동해커톤 2023 - 정보통신기획평가원장상 최우수🥈](https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board)
+- [제9회 소프트웨어 개발보안 경진대회 - 행정안전부장관상 최우수🥈](http://www.ggoverallnews.co.kr/news/articleView.html?idxno=18009)
 
 <!-- Experience -->
 ### 💼 Experience
@@ -30,7 +30,7 @@
 
 <!-- open-source contribution -->
 
-### 🧩 Open-source Contributions
+### 🧩 Contributions
 
 - [TanStack/query](https://github.com/TanStack/query/issues?q=author%3Agwansikk)
   - fix(*): infer data type correctly when conditional skipToken is passed to useQueries [#7150](https://github.com/TanStack/query/pull/7150)
@@ -41,7 +41,7 @@
 
 <!-- blog -->
 
- ### 📝 Tech Insights
+ ### 📝 Insights
 
 > 현재 블로그 이전 작업 중이어서 접속이 어려워요. 빠르게 작업해 볼게요!
 
