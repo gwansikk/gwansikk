@@ -27,7 +27,7 @@
 
 ### 🧑🏻‍💻 Experience
 
-- [Component Studio](https://github.com/ComponentStudio)
+- [Component Studio](https://github.com/ComponentStudio) <sub><sup>2022.07 ~</sup></sub>  
 
 <!-- contribution -->
 
