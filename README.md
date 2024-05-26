@@ -2,9 +2,6 @@
 
 ### 👋 hey, I'm GwanSik Kim
 
-[![Email](https://img.shields.io/badge/iam@gwansik.dev-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:iam@gwansik.dev)
-[![Linkedin](https://img.shields.io/badge/GwanSik_Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gwansikk/)
-[![𝕏](https://img.shields.io/badge/gwansikk-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gwansikk)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwansikk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018b296e-4cd5-41f2-aa72-2f479353ee2b.svg?style=flat-square)](https://wakatime.com/@018b296e-4cd5-41f2-aa72-2f479353ee2b)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -15,19 +12,19 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
+<!-- Experience -->
+
+### 🧑🏻‍💻 Experience
+
+- [Component Studio](https://github.com/ComponentStudio) <sub><sup>2022.07 ~</sup></sub> 
+
 <!-- awards -->
 
 ### 🏆 Awards
 
 - [제10회 소프트웨어 개발보안 경진대회 - 🥉행정안전부장관상 우수](https://www.kisa.or.kr/401/form?postSeq=3152&page=1)
 - [SW중심대학 공동해커톤 2023 - 🥈정보통신기획평가원장상 최우수](https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board)
-- [제9회 소프트웨어 개발보안 경진대회 - 🥈행정안전부장관상 최우수](http://www.ggoverallnews.co.kr/news/articleView.html?idxno=18009)
-
-<!-- Experience -->
-
-### 🧑🏻‍💻 Experience
-
-- [Component Studio](https://github.com/ComponentStudio) <sub><sup>2022.07 ~</sup></sub>  
+- [제9회 소프트웨어 개발보안 경진대회 - 🥈행정안전부장관상 최우수](http://www.ggoverallnews.co.kr/news/articleView.html?idxno=18009) 
 
 <!-- contribution -->
 
