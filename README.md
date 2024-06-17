@@ -26,8 +26,8 @@
 - [TanStack/query](https://github.com/TanStack/query/issues?q=author%3Agwansikk)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress/issues?q=author%3Agwansikk)
 - [toss/suspensive](https://github.com/toss/suspensive/issues?q=author%3Agwansikk)
-- [toss/es-hangul](https://github.com/toss/es-hangul/issues?q=author%3Agwansikk)
 - [toss/es-toolkit](https://github.com/toss/es-toolkit/issues?q=author%3Agwansikk)
+- [toss/es-hangul](https://github.com/toss/es-hangul/issues?q=author%3Agwansikk)
 - [toss/slash](https://github.com/toss/slash/issues?q=author%3Agwansikk)
 
 
