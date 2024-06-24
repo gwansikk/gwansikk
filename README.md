@@ -10,7 +10,7 @@
 ### 👟 Activities.
 
 - [Component Studio](https://github.com/ComponentStudio) <sub><sup>2022.07 ~</sup></sub>
-- [FEConf 2024 Lightning Speaker, 오픈소스 기여, 어렵지 않아요!](https://2024.feconf.kr/) <sub><sup>2024.08.24 (예정)</sup></sub> 
+- [FEConf 2024 Lightning Speaker - 오픈소스 기여, 어렵지 않아요!](https://2024.feconf.kr/) <sub><sup>2024.08.24 (예정)</sup></sub> 
 
 <!-- awards -->
 
