@@ -29,4 +29,3 @@
 - [toss/suspensive](https://github.com/toss/suspensive/commits?author=gwansikk)
 - [toss/es-toolkit](https://github.com/toss/es-toolkit/commits?author=gwansikk)
 - [toss/es-hangul](https://github.com/toss/es-hangul/commits?author=gwansikk)
-- [toss/slash](https://github.com/toss/slash/commits?author=gwansikk)
