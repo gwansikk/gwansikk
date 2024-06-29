@@ -24,8 +24,8 @@
 
 ### 🧩 Contributions
 
-- [TanStack/query](https://github.com/TanStack/query/commits?author=gwansikk)
-- [vuejs/vitepress](https://github.com/vuejs/vitepress/commits?author=gwansikk)
-- [toss/suspensive](https://github.com/toss/suspensive/commits?author=gwansikk)
-- [toss/es-toolkit](https://github.com/toss/es-toolkit/commits?author=gwansikk)
-- [toss/es-hangul](https://github.com/toss/es-hangul/commits?author=gwansikk)
+- [TanStack/query](https://github.com/TanStack/query/issues?q=author%3Agwansikk)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress/issues?q=author%3Agwansikk)
+- [toss/suspensive](https://github.com/toss/suspensive/issues?q=author%3Agwansikk)
+- [toss/es-toolkit](https://github.com/toss/es-toolkit/issues?q=author%3Agwansikk)
+- [toss/es-hangul](https://github.com/toss/es-hangul/issues?q=author%3Agwansikk)
