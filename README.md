@@ -12,14 +12,6 @@
 - [Component Studio](https://github.com/ComponentStudio) <sub><sup>2022.07 ~</sup></sub>
 - [FEConf 2024 Lightning Speaker - 오픈소스 기여, 어렵지 않아요!](https://2024.feconf.kr/) <sub><sup>2024.08.24 (예정)</sup></sub> 
 
-<!-- awards -->
-
-### 🏆 Awards
-
-- [제10회 소프트웨어 개발보안 경진대회 - 🥉행정안전부장관상 우수](https://www.kisa.or.kr/401/form?postSeq=3152&page=1)
-- [SW중심대학 공동해커톤 2023 - 🥈정보통신기획평가원장상 최우수](https://www.swuniv.kr/56/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15247030&t=board)
-- [제9회 소프트웨어 개발보안 경진대회 - 🥈행정안전부장관상 최우수](http://www.ggoverallnews.co.kr/news/articleView.html?idxno=18009) 
-
 <!-- contribution -->
 
 ### 🧩 Contributions
