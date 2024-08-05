@@ -2,4 +2,3 @@
 [![wakatime](https://wakatime.com/badge/user/018b296e-4cd5-41f2-aa72-2f479353ee2b.svg)](https://wakatime.com/@018b296e-4cd5-41f2-aa72-2f479353ee2b)  
 
 - [FEConf 2024 Lightning Talk - 오픈소스 기여, 어렵지 않아요!](https://2024.feconf.kr/) <sub><sup>2024.08.24 (예정)</sup></sub>
-- [Component Studio](https://github.com/ComponentStudio) <sub><sup>2022.07 ~ 2024.03</sup></sub>
