@@ -4,4 +4,4 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=square)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=square)](https://www.rust-lang.org/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff&style=square)](https://webassembly.org/)  
-[![FEConf 2024 Lightning Talk](https://img.shields.io/badge/FEConf%202024%20Lightning%20Talk-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EA%B8%B0%EC%97%AC%2C%20%EC%96%B4%EB%A0%B5%EC%A7%80%20%EC%95%8A%EC%95%84%EC%9A%94!-8A2BE2?style=social&labelColor=8A2BE2)](https://2024.feconf.kr/)
+[![FEConf 2024 Lightning Talk](https://img.shields.io/badge/FEConf%202024%20Lightning%20Talk-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20%EA%B8%B0%EC%97%AC%2C%20%EC%96%B4%EB%A0%B5%EC%A7%80%20%EC%95%8A%EC%95%84%EC%9A%94!-8A2BE2?style=social&labelColor=8A2BE2)](https://drive.google.com/file/d/1qcXOaFodRQBR9pa_nBcdIeKVdEZACQNx/view)
