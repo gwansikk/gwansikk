@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwansikk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits)](https://github.com/gwansikk)
 [![wakatime](https://wakatime.com/badge/user/018b296e-4cd5-41f2-aa72-2f479353ee2b.svg)](https://wakatime.com/@018b296e-4cd5-41f2-aa72-2f479353ee2b)  
-[![ESNext](https://img.shields.io/badge/ESNext-F7DF1E?logo=javascript&logoColor=000&style=square)](https://ecma-international.org/technical-committees/tc39/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=square)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=square)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=square)](https://www.rust-lang.org/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff&style=square)](https://webassembly.org/)  
