@@ -3,4 +3,6 @@
 [![Query Adaptor](https://img.shields.io/badge/Query_Adaptor-7B68EE?style=square)](https://github.com/gwansikk/query-adaptor/issues?q=involves%3Agwansikk)  
 [![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=fff&style=fsquare)](https://github.com/TanStack/query/issues?q=involves%3Agwansikk)
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=square)](https://github.com/pnpm/pnpm/issues?q=involves%3Agwansikk)
-[![VitePress](https://img.shields.io/badge/VitePress-5C73E7?logo=vitepress&logoColor=fff&style=square)](https://github.com/vuejs/vitepress/issues?q=involves%3Agwansikk)
+[![VitePress](https://img.shields.io/badge/VitePress-5C73E7?logo=vitepress&logoColor=fff&style=square)](https://github.com/vuejs/vitepress/issues?q=involves%3Agwansikk)  
+[![es-toolkit](https://img.shields.io/badge/es--toolkit-3451b2?style=square)](https://github.com/toss/es-toolkit/issues?q=involves%3Agwansikk)
+[![es-hangul](https://img.shields.io/badge/es--hangul-3451b2?style=square)](https://github.com/toss/es-hangul/issues?q=involves%3Agwansikk)
