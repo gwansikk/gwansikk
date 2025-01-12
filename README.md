@@ -1,5 +1,5 @@
-[![DEPROCON](https://img.shields.io/badge/DEPROCON-오픈_소스_기여부터_관리까지-8A2BE2?style=social&labelColor=8A2BE2)](https://drive.google.com/file/d/1hzv8uhHzSomesRgs6HpPGWKnaHNkdIT0/view?usp=sharing)  
-[![FEConf 2024 Lightning Talk](https://img.shields.io/badge/FEConf_2024_Lightning_Talk-오픈_소스_기여,_어렵지_않아요!-8A2BE2?style=social&labelColor=8A2BE2)](https://www.gwansik.dev/posts/feconf-2024)  
+[![DEPROCON](https://img.shields.io/badge/DEPROCON-오픈_소스_기여부터_관리까지-black?style=social)](https://drive.google.com/file/d/1hzv8uhHzSomesRgs6HpPGWKnaHNkdIT0/view?usp=sharing)  
+[![FEConf 2024 Lightning Talk](https://img.shields.io/badge/FEConf_2024_Lightning_Talk-오픈_소스_기여,_어렵지_않아요!-black?style=social)](https://www.gwansik.dev/posts/feconf-2024)  
 <!--
 [![Suspensive](https://img.shields.io/badge/Suspensive-000?style=flat)](https://github.com/toss/Suspensive/issues?q=involves%3Agwansikk)
 [![Query Adaptor](https://img.shields.io/badge/Query_Adaptor-7B68EE?style=flat)](https://github.com/gwansikk/query-adaptor/issues?q=involves%3Agwansikk)
