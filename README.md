@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <samp>
     <a href="https://www.gwansik.dev/">Blog</a> ·
     <a href="https://www.offlegacy.org/">OffLegacy</a> ·
